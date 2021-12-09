@@ -1,0 +1,20 @@
+{
+  "name": "guess-game",
+  "version": "0.18.2",
+  "license": "(MIT OR Apache-2.0)",
+  "author": {
+    "name": "BabyManisha.Sunkara",
+    "email": "babymaneesha@gmail.com",
+    "url": "https://babymanisha.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BabyManisha/guess-game.gi"
+  },
+  "engines": {
+    "node": ">=11"
+  },
+  "scripts": {
+    "test": "anchor test"
+  }
+}
